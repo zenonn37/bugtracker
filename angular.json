@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bugtracker"
+    }
+  },
+  "defaultProject": "bugtracker",
+  "cli": {
+    "analytics": "38b230e4-c6a2-48cb-b470-fa8d0640ae21"
+  }
 }
