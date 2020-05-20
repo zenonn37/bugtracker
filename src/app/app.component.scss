@@ -1,0 +1,101 @@
+@import "../assets/styles/theme.scss";
+
+.navbar {
+  width: 100%;
+  height: $nav;
+  background-color: $nav-primary;
+  #Icon {
+    stroke: $icons;
+  }
+  #Icon-Rectangle {
+    stroke: $icons;
+  }
+
+  #Icon-Path {
+    stroke: $icons;
+  }
+  .path {
+    fill: $icons;
+  }
+  .filled {
+    fill: $icons;
+  }
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 100%;
+}
+
+.logo-item {
+  flex: 2;
+  width: 100%;
+}
+.logo-container {
+  background-color: $nav-secondary;
+  width: 100%;
+  height: 70px;
+}
+.nav-item {
+  flex: 1;
+}
+
+.exit-item {
+  flex: 2;
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 1rem;
+}
+.main {
+  margin-left: 5rem;
+}
+
+//media query
+//large screens
+@media only screen and (min-width: 1025px) {
+  .navbar {
+    width: $nav;
+    height: 100vh;
+    background-color: $nav-primary;
+    position: fixed;
+  }
+  .nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+  }
+
+  .logo-item {
+    flex: 2;
+    width: 100%;
+  }
+  .logo-container {
+    background-color: $nav-secondary;
+    width: 100%;
+    height: 70px;
+  }
+  .nav-item {
+    flex: 1;
+  }
+
+  .exit-item {
+    flex: 2;
+    display: flex;
+    align-items: flex-end;
+    padding-bottom: 1rem;
+  }
+  .menu-item {
+    display: none;
+  }
+}
+
+//med phone and tablet screens
+@media only screen and(max-width:768px) {
+}
+
+//small phone
+
+@media only screen and(max-width:375px) {
+}

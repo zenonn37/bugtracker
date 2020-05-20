@@ -3,8 +3,13 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
-  title = 'bugtracker';
+  //methods
+  //logout clear credentials and send to login screen
+
+  public exitSession() {}
+
+  public menuControl() {}
 }

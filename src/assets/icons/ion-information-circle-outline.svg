@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ion-information-circle-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-27.000000, -590.000000)">
+            <g id="icons" transform="translate(24.000000, 342.000000)">
+                <g id="ion-information-circle-outline" transform="translate(0.000000, 245.000000)">
+                    <g id="Icon">
+                        <path d="M15.5,4 C9.149375,4 4,9.149375 4,15.5 C4,21.850625 9.149375,27 15.5,27 C21.850625,27 27,21.850625 27,15.5 C27,9.149375 21.850625,4 15.5,4 Z" id="Icon-Path" stroke="#EFEFEF" stroke-width="2"></path>
+                        <polyline id="Icon-Path" stroke="#EFEFEF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="13.75 13.75 15.75 13.75 15.75 21"></polyline>
+                        <path d="M13,21.26875 L18.5,21.26875" id="Icon-Path" stroke="#EFEFEF" stroke-width="2" stroke-linecap="round"></path>
+                        <path d="M15.5,8.125 C14.6025373,8.125 13.875,8.85253728 13.875,9.75 C13.875,10.6474627 14.6025373,11.375 15.5,11.375 C16.3974627,11.375 17.125,10.6474627 17.125,9.75 C17.125,8.85253728 16.3974627,8.125 15.5,8.125 Z" id="Icon-Path" fill="#EFEFEF" fill-rule="nonzero"></path>
+                    </g>
+                    <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

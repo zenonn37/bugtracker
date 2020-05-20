@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="26px" viewBox="0 0 28 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ion-browsers-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-26.000000, -526.000000)">
+            <g id="icons" transform="translate(24.000000, 342.000000)">
+                <g id="ion-browsers-outline" transform="translate(0.000000, 181.000000)">
+                    <g id="Icon">
+                        <rect id="Icon-Rectangle" stroke="#EFEFEF" stroke-width="2" stroke-linejoin="round" x="3" y="4" width="26" height="24" rx="3"></rect>
+                        <path d="M24.86375,4 L7.13625,4 C4.855625,4 3,5.884375 3,8.2 L3,11 L4,11 C4,10 5,9 6,9 L26,9 C27,9 28,10 28,11 L29,11 L29,8.2 C29,5.884375 27.144375,4 24.86375,4 Z" id="Icon-Path" fill="#EFEFEF" fill-rule="nonzero"></path>
+                    </g>
+                    <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

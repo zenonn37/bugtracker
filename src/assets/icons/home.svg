@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="28px" viewBox="0 0 30 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ion-home-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-25.000000, -344.000000)">
+            <g id="icons" transform="translate(24.000000, 342.000000)">
+                <g id="ion-home-outline">
+                    <g id="Icon" stroke="#EFEFEF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <path d="M5,13.25 L5,28 C5,28.5522847 5.44771525,29 6,29 L12,29 L12,20.5 C12,19.6715729 12.6715729,19 13.5,19 L18.5,19 C19.3284271,19 20,19.6715729 20,20.5 L20,29 L26,29 C26.5522847,29 27,28.5522847 27,28 L27,13.25" id="Icon-Path"></path>
+                        <path d="M30,16 L16.680625,3.25 C16.368125,2.92 15.6375,2.91625 15.319375,3.25 L2,16" id="Icon-Path"></path>
+                        <polyline id="Icon-Path" points="25 11.1875 25 4 22 4 22 8.3125"></polyline>
+                    </g>
+                    <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

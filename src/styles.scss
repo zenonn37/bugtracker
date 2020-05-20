@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import "./assets/styles/theme.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $bg-primary;
+  font-size: $fontSize;
+  font-family: $fontFamily;
+}

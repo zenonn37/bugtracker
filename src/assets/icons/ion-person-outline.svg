@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="28px" viewBox="0 0 26 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ion-person-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-27.000000, -461.000000)">
+            <g id="icons" transform="translate(24.000000, 342.000000)">
+                <g id="ion-person-outline" transform="translate(0.000000, 117.000000)">
+                    <g id="Icon" stroke="#EFEFEF" stroke-width="2">
+                        <path d="M21.5,9 C21.255,12.304375 18.75,15 16,15 C13.25,15 10.740625,12.305 10.5,9 C10.25,5.5625 12.6875,3 16,3 C19.3125,3 21.75,5.625 21.5,9 Z" id="Icon-Path" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M16,19 C10.5625,19 5.04375,22 4.0225,27.6625 C3.899375,28.345 4.285625,29 5,29 L27,29 C27.715,29 28.10125,28.345 27.978125,27.6625 C26.95625,22 21.4375,19 16,19 Z" id="Icon-Path"></path>
+                    </g>
+                    <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

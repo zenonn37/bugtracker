@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ion-bug-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-26.000000, -397.000000)">
+            <g id="icons" transform="translate(24.000000, 342.000000)">
+                <g id="ion-bug-outline" transform="translate(0.000000, 53.000000)">
+                    <g id="Icon" stroke="#EFEFEF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <path d="M23.125,23.625 C24.930625,25.095 26,26.504375 26,29" id="Icon-Path"></path>
+                        <path d="M8.875,23.625 C7.069375,25.095 6,26.50375 6,29" id="Icon-Path"></path>
+                        <path d="M24,13 C25.805625,11.53 26,9.495625 26,7" id="Icon-Path"></path>
+                        <path d="M8,12.875 C6.194375,11.405 6,9.49625 6,7" id="Icon-Path"></path>
+                        <path d="M29,18.026875 L24,18.026875" id="Icon-Path"></path>
+                        <path d="M8,18.026875 L3,18.026875" id="Icon-Path"></path>
+                        <path d="M16.01875,12 L16.01875,28" id="Icon-Path"></path>
+                        <path d="M16,28 L16,28 C11.6,28 8,24.4 8,20 L8,13.995625 C8,9.92875 11.6,7.995625 16,7.995625 L16,7.995625 C20.4,7.995625 24,9.595625 24,13.995625 L24,20 C24,24.4 20.4,28 16,28 Z" id="Icon-Path"></path>
+                        <path d="M11.214375,8.97 C11.0892886,8.65632578 11.016856,8.32414936 11,7.986875 C11.0072124,5.23569301 13.235693,3.00721242 15.986875,3 L16.013125,3 C18.764307,3.00721242 20.9927876,5.23569301 21,7.986875 C20.9879272,8.29392339 20.9219209,8.59645256 20.805,8.880625" id="Icon-Path"></path>
+                    </g>
+                    <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

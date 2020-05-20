@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="22px" viewBox="0 0 28 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>ion-exit-outline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-26.000000, -971.000000)">
+            <g id="icons" transform="translate(24.000000, 342.000000)">
+                <g id="ion-exit-outline" transform="translate(0.000000, 624.000000)">
+                    <g id="Icon" stroke="#EFEFEF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <path d="M20,11 L20,8.5 C20,7.11928813 18.8807119,6 17.5,6 L5.5,6 C4.11928813,6 3,7.11928813 3,8.5 L3,23.5 C3,24.8807119 4.11928813,26 5.5,26 L17.5,26 C18.8807119,26 20,24.8807119 20,23.5 L20,21" id="Icon-Path"></path>
+                        <polyline id="Icon-Path" points="24 11 29 16 24 21"></polyline>
+                        <path d="M11.9375,16.01875 L29,16.01875" id="Icon-Path"></path>
+                    </g>
+                    <rect id="ViewBox" fill-rule="nonzero" x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
