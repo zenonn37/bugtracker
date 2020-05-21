@@ -1,0 +1,11 @@
+@import "../../assets/styles/theme.scss";
+
+.m-nav {
+  position: absolute;
+  top: 80px;
+  right: -100px;
+  height: 25rem;
+  width: 4rem;
+  border-radius: 3px;
+  background-color: $nav-primary;
+}

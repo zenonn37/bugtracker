@@ -11,4 +11,13 @@ body {
   background-color: $bg-primary;
   font-size: $fontSize;
   font-family: $fontFamily;
+  overflow: hidden;
+}
+
+ul {
+  list-style: none;
+}
+
+.cursor {
+  cursor: pointer;
 }

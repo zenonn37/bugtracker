@@ -8,6 +8,10 @@
 </ul> -->
 <nav class="navbar">
 
+
+
+
+
     <ul class="nav">
 
         <li class="logo-item">
@@ -221,7 +225,7 @@
                 </svg>
             </div>
         </li>
-        <li (click)="menuControl()" class="menu-item">
+        <li (click)="menuControl()" class="menu-item cursor">
             <svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg"
                 xmlns:xlink="http://www.w3.org/1999/xlink">
                 <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
@@ -247,6 +251,9 @@
 
 </nav>
 
+
+<!--mobile nav-->
+<app-mobile-nav [currentState]="toState"></app-mobile-nav>
 <main class="main">
     <router-outlet></router-outlet>
 </main>
